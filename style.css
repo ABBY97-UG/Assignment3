@@ -24,7 +24,7 @@ section {
     flex-wrap: wrap;
     top: 0;
     z-index: 1000;
-    font-size: large;
+    font-size: 18px;
 }
 
 .nav-links {
