@@ -24,8 +24,7 @@ section {
     flex-wrap: wrap;
     top: 0;
     z-index: 1000;
-    text-shadow: 2px 3px 5px black;
-    font-size: larger;
+    font-size: large;
 }
 
 .nav-links {
@@ -93,7 +92,7 @@ section {
     max-width: 450px;
     background-color: antiquewhite;
     border-radius: 12px;
-    min-width: 280px;
+    min-width: 180px;
 }
 
 
