@@ -39,6 +39,9 @@ section {
     text-decoration: none;
     font-weight: bold;
 }
+a:hover{
+    background-color: rgb(140, 210, 69);
+}
 
 
 .hero {
